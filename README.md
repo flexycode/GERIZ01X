@@ -101,7 +101,7 @@ Professor Ms. Joycelyn C. Gener background profile coming soon...
 # 📫 Changelogs
 
 ```
-## [8.0.0] - 2024-08-05      
+## [8.0.0] - 2024-08-09      
 ### Added  
 - ✨ Coming Soon
 - ✨ Coming Soon
