@@ -93,7 +93,7 @@ This project is provided "as is" without warranty of any kind, express or implie
 
 ## Acknowledgments
 
-### ✨ Professor TBA 
+### ✨ Professor Joycelyn C. Gener 
 ```
 Professor Ms. Joycelyn C. Gener background profile coming soon...
 ```
@@ -103,14 +103,19 @@ Professor Ms. Joycelyn C. Gener background profile coming soon...
 ```
 ## [8.0.0] - 2024-08-09      
 ### Added  
-- ✨ Coming Soon
-- ✨ Coming Soon
+- ✨ Add Week 0 Folder
+- ✨ Add Activity 1 
 
 ### Changed
-- ✨ Coming Soon
+- ✨ Change the date for Week 0
 
 ### Fixed 
-- ✨ Coming Soon
+- ✨ Fix Documentation
+
+## [8.0.0] - 2024-08-16      
+### Added  
+- ✨ Add Week 1 Folder
+- ✨ Add Activity 2 
 ```
 
 <!-- End point insert background effect line of sight color rainbow -->
