@@ -95,7 +95,7 @@ This project is provided "as is" without warranty of any kind, express or implie
 
 ### ✨ Professor Joycelyn C. Gener 
 ```
-Professor Ms. Joycelyn C. Gener background profile coming soon...
+Professor Ms. Joycelyn C. Gener background profile coming soon....
 ```
 
 # 📫 Changelogs
