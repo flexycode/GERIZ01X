@@ -120,7 +120,17 @@ Professor Ms. Joycelyn C. Gener background profile coming soon....
 ## [8.0.0] - 2024-08-30
 ### Added  
 - ✨ Add Week 2 Folder
-- ✨ Add Activity 3    
+- ✨ Add Activity 3
+
+## [8.0.0] - 2024-09-06
+### Added  
+- ✨ Add Week 4 Folder
+
+## [8.0.0] - 2024-09-13
+### Added  
+- ✨ 
+
+🧊 LIFE AND WORKS OF RIZAL
 ```
 
 <!-- End point insert background effect line of sight color rainbow -->
