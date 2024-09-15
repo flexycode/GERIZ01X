@@ -95,7 +95,7 @@ This project is provided "as is" without warranty of any kind, express or implie
 
 ### ✨ Professor Joycelyn C. Gener 
 ```
-Professor Ms. Joycelyn C. Gener background profile coming soon....
+Professor Ms. Joycelyn C. Gener background profile coming soon.....
 ```
 
 # 📫 Changelogs
@@ -128,7 +128,7 @@ Professor Ms. Joycelyn C. Gener background profile coming soon....
 
 ## [8.0.0] - 2024-09-13
 ### Added  
-- ✨ 
+- ✨ Add Notes for Midterm Exam
 
 🧊 LIFE AND WORKS OF RIZAL
 ```
