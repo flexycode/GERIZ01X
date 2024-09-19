@@ -130,6 +130,10 @@ Professor Ms. Joycelyn C. Gener background profile coming soon.....
 ### Added  
 - ✨ Add Notes for Midterm Exam
 
+## [8.0.0] - 2024-09-19
+### Added  
+- ✨ Add Notes for 
+
 🧊 LIFE AND WORKS OF RIZAL
 ```
 
