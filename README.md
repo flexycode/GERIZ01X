@@ -56,6 +56,7 @@ This repository contains the following resources:
 * **Project 1: IT and Society** - Analyze the impact of IT on a specific industry or aspect of society
 * **Project 2: Digital Citizenship** - Develop a campaign to promote digital citizenship and online safety
 * **Project 3: Future of Work** - Design a system or application that addresses the challenges of the future of work
+Good call
 -->
   
 # 🏆 Contributing
@@ -132,7 +133,7 @@ Professor Ms. Joycelyn C. Gener background profile coming soon.....
 
 ## [8.0.0] - 2024-09-19
 ### Added  
-- ✨ Add Notes for 
+- ✨ Add Notes for Week 5 folder
 
 🧊 LIFE AND WORKS OF RIZAL
 ```
