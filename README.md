@@ -135,6 +135,18 @@ Professor Ms. Joycelyn C. Gener background profile coming soon.....
 ### Added  
 - ✨ Add Notes for Week 5 folder
 
+## [8.0.0] - 2024-09-17
+### Added  
+- ✨ Add Notes for Week 6 Midterm Exam
+
+## [8.0.0] - 2024-09-27
+### Added  
+- ✨ Add Notes for Week 7 folder
+
+## [8.0.0] - 2024-10-04
+### Added  
+- ✨ Add Notes for Week 8 folder
+
 🧊 LIFE AND WORKS OF RIZAL
 ```
 
