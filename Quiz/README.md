@@ -66,7 +66,7 @@ Quiz 2 grade is 20 points for the content. Performance 2 grade is 20 points for 
 <img src="https://github.com/flexycode/GERIZ01X/blob/main/assets/SMC%203.jpg" />
 
 
-# 💫 Quiz and Performance Task 3 - RIZAL
+# 💫 Quiz 3 - RIZAL
 #### Due today 9/06/2024 at 3:00 PM
 #### 30 Points
 
@@ -100,8 +100,43 @@ I also want to visit some stunning architecture of places like the Ljubljana Cas
 The Quiz 3 and Performance task 3 are bonus
 ```
 
+# 💫 Quiz and Performance Task 4 - RIZAL
+#### Due today 10/01/2024 at 3:00 PM
+#### 30 Points
 
+## ✨ Instructions
 
+In a canva, put a picture during the pandemic time. It could be ur pictureï or other picture.
+Provide a description about a talent or skill that you learned while on lockdown. 
+Explain how it helped you in those rough times just like Jose Rizal when he was exiled in Dapitan
+
+## ✨ Answer:
+
+<!-- Quiz 4 and performance task 4 -->
+<img src="https://github.com/flexycode/GERIZ01X/blob/main/assets/Quiz-4.png" />
+
+# 💫 Quiz and Performance Task 5 - RIZAL
+#### Due today 10/08/2024 at 3:00 PM
+#### 30 Points
+
+## ✨ Instructions
+
+Submit a poster using digital arts depicting the unfair and unjustifiable 
+execution of Jose Rizal in the hands of the Spanish government. 
+Dont forget to write 2-3 sentences as a description.
+
+## ✨ Answer:
+<!-- Quiz 5 and performance task 5 -->
+<img src="https://github.com/flexycode/GERIZ01X/blob/main/assets/QUIZ%205%20-%20PT%205.png" />
+
+```code
+This artistic portrayal captures the unjust silencing of Jose Rizal by Spanish colonial
+authorities, despite his peaceful advocacy for reforms. His execution, represented by
+the fallen figure in the foreground, became a pivotal moment that galvanized the Philippine
+struggle for independence. The surrounding crowd of diverse Filipinos, some holding books or
+newspapers, others appearing to shout in protest, symbolizes how Rizal's ideas and
+sacrifice inspired a nation to resist oppression and fight for freedom. 
+```
 
 🤖 Life and Works of Rizal
 
