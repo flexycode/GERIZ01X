@@ -1,5 +1,5 @@
-# 💫 Quiz Performance Task 1 - RIZAL
-#### Due today 8/9/2024 at 3:00 PM
+# 💫 Quiz 1 - RIZAL
+#### Due date: 8/9/2024 at 3:00 PM
 #### 30 Points
 
 ## ✍️ Instructions
@@ -26,8 +26,8 @@ It is a place of historical significance and a testament to Rizal's enduring leg
 ```
 
 
-# 💫 Quiz Performance Task 2 - RIZAL
-#### Due today 8/20/2024 at 3:00 PM
+# 💫 Performance Task 1 - RIZAL
+#### Due date: 8/20/2024 at 3:00 PM
 #### 30 Points
 
 ## ✍️ Instructions
@@ -45,7 +45,28 @@ efforts and abilities of its own people. By entrusting the nation's development 
 promotes a sense of ownership and responsibility among the citizens.
 ```
 
-# 💫 Quiz Performance Task 3 - RIZAL
+# 💫 Quiz and Performance Task 2 - RIZAL
+#### Due date: 8/30/2024 at 3:00 PM
+#### 40 Points
+
+## ✍️ Instructions
+### Activity Problem:
+
+Post a Canva with your favorite works of Rizal. It could be his one of his poems or essays in lesson 3.
+Provide an explanation why you like the message of the work you chose in Lesson 3. 
+Quiz 2 grade is 20 points for the content. Performance 2 grade is 20 points for the design.
+
+## ✨ Answer:
+
+<!-- Photos for Quiz and Performance Task 2 -->
+<img src="https://github.com/flexycode/GERIZ01X/blob/main/assets/SMC%201.jpg" />
+
+<img src="https://github.com/flexycode/GERIZ01X/blob/main/assets/SMC%202.jpg" />
+
+<img src="https://github.com/flexycode/GERIZ01X/blob/main/assets/SMC%203.jpg" />
+
+
+# 💫 Quiz and Performance Task 3 - RIZAL
 #### Due today 9/06/2024 at 3:00 PM
 #### 30 Points
 
@@ -78,6 +99,8 @@ I also want to visit some stunning architecture of places like the Ljubljana Cas
 ```
 The Quiz 3 and Performance task 3 are bonus
 ```
+
+
 
 
 🤖 Life and Works of Rizal
