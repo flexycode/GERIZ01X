@@ -1,4 +1,19 @@
 # 💫 Quiz Performance task 1 - RIZAL
+#### Due today 8/9/2024 at 3:00 PM
+#### 30 Points
+
+## ✍️ Instructions
+### Activity Problem:
+
+Post a picture of Rizal's monument and provide a description like location.
+
+## ✨ Answer:
+
+
+
+
+
+# 💫 Quiz Performance task 2 - RIZAL
 #### Due today 8/20/2024 at 3:00 PM
 #### 30 Points
 
@@ -17,17 +32,39 @@ efforts and abilities of its own people. By entrusting the nation's development 
 promotes a sense of ownership and responsibility among the citizens.
 ```
 
-# 💫 Quiz Performance task 2 - RIZAL
-#### Due today 8/20/2024 at 3:00 PM
+# 💫 Quiz Performance task 3 - RIZAL
+#### Due today 9/06/2024 at 3:00 PM
 #### 30 Points
 
 ## ✍️ Instructions
 ### Activity Problem:
 
-Nationalistic concept that the Filipinos, and not the foreigners, were
-the “fair hope of the mother  land. Do you agree with Rizal? expalin in 2-3 sentences
+What country would you like to visit and why? Post a picture here
 
 ## ✨ Answer:
+
+<!-- Photos of country that I visited -->
+<img src="https://github.com/flexycode/GERIZ01X/blob/main/assets/lake-bled-slovenia.jpeg" />
+
+<img src="https://github.com/flexycode/GERIZ01X/blob/main/assets/slovenia-country.jpg" />
+
+```bash
+I'm really drawn to Slovenia, partly because my idol Luka Dončić is from there, he is a Slovenian professional
+basketball player who plays for the Dallas Mavericks of the NBA and he also represents the Slovenian national team.
+I'd love to explore Bled Island, soak up the local culture and try all the amazing food like goulash
+and Štruklji, a slovenian cheese dumplings.
+I also want to visit some stunning architecture of places like the Ljubljana Castle and the Triple Bridge.
+```
+
+# 💫 Quiz Performance task 3 - RIZAL
+#### Due today 10/09/2024 at 3:00 PM
+#### 30 Points
+
+## ✨ Instructions
+
+```
+The Quiz 3 and Performance task 3 are bonus
+```
 
 
 🤖 Lab Activity 
@@ -56,6 +93,3 @@ the “fair hope of the mother  land. Do you agree with Rizal? expalin in 2-3 se
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 
-
-
-🤖 Lab Activity 5
