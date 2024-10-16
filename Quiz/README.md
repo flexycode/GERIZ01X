@@ -138,8 +138,18 @@ newspapers, others appearing to shout in protest, symbolizes how Rizal's ideas a
 sacrifice inspired a nation to resist oppression and fight for freedom. 
 ```
 
-🤖 Life and Works of Rizal
+## ✨ Performance Task:
 
+#### How will you protect your right to vote?
+
+```
+To safeguard my right to vote, I'll stay informed and vigilant. I'll double-check my voter registration,
+keep up with election news from reliable sources and report any suspicious activities or barriers I encounter.
+Most importantly, I'll cast my ballot based on my own research and values, resisting pressure from others
+and remembering that my vote is my voice in shaping our country's future.
+```
+
+🤖 Life and Works of Rizal
 
 <!-- End point line insert Thanks for visiting enjoy your day, feel free to modify this  -->
 ---
