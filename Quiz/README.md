@@ -1,4 +1,4 @@
-# 💫 Quiz Performance task 1 - RIZAL
+# 💫 Quiz Performance Task 1 - RIZAL
 #### Due today 8/9/2024 at 3:00 PM
 #### 30 Points
 
@@ -8,12 +8,25 @@
 Post a picture of Rizal's monument and provide a description like location.
 
 ## ✨ Answer:
+#### Monument : Punto de Desembarco de Rizal en Dapitan
+#### Location : Dapitan City, Philippines
+
+<!-- Photos of place of monument of RIZAL -->
+<img src="https://github.com/flexycode/GERIZ01X/blob/main/assets/Jose-Rizal-Memorial-Protected-Landscape-Dapitan-City.jpg" />
+
+```code
+The Punto de Desembarco de Rizal en Dapitan, also known as the Landing Site of Rizal in Dapitan, is a historical location in Dapitan City, Philippines.
+It marks the spot where Dr. Jose Rizal, a national hero of the Philippines, landed on July 17, 1892. Rizal arrived in Dapitan after being exiled by
+the Spanish authorities for his nationalist activities.
+The landing site is of significant historical importance as it symbolizes the beginning of Rizal's exile in Dapitan,
+where he spent four years engaging in various activities that contributed to the development of the community. During his time in Dapitan,
+Rizal established a school, engaged in agriculture, conducted scientific research, and provided medical services to the locals.
+The Punto de Desembarco de Rizal en Dapitan serves as a reminder of Rizal's resilience, intellect, and dedication to the betterment of society.
+It is a place of historical significance and a testament to Rizal's enduring legacy in the Philippines.
+```
 
 
-
-
-
-# 💫 Quiz Performance task 2 - RIZAL
+# 💫 Quiz Performance Task 2 - RIZAL
 #### Due today 8/20/2024 at 3:00 PM
 #### 30 Points
 
@@ -32,7 +45,7 @@ efforts and abilities of its own people. By entrusting the nation's development 
 promotes a sense of ownership and responsibility among the citizens.
 ```
 
-# 💫 Quiz Performance task 3 - RIZAL
+# 💫 Quiz Performance Task 3 - RIZAL
 #### Due today 9/06/2024 at 3:00 PM
 #### 30 Points
 
@@ -56,7 +69,7 @@ and Štruklji, a slovenian cheese dumplings.
 I also want to visit some stunning architecture of places like the Ljubljana Castle and the Triple Bridge.
 ```
 
-# 💫 Quiz Performance task 3 - RIZAL
+# 💫 Quiz Performance Task 3 - RIZAL
 #### Due today 10/09/2024 at 3:00 PM
 #### 30 Points
 
@@ -67,7 +80,7 @@ The Quiz 3 and Performance task 3 are bonus
 ```
 
 
-🤖 Lab Activity 
+🤖 Life and Works of Rizal
 
 
 <!-- End point line insert Thanks for visiting enjoy your day, feel free to modify this  -->
