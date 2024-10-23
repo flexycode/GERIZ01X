@@ -149,7 +149,11 @@ Professor Ms. Joycelyn C. Gener background profile coming soon.....
 
 ## [8.0.1] - 2024-10-18
 ### Added  
-- ✨ Add Notes for Week 9 
+- ✨ Add Notes for Week 9
+
+## [10.0.1] - 2024-10-22
+### Added  
+- ✨ Add Activity 
 
 🧊 LIFE AND WORKS OF RIZAL
 ```
